@@ -3,16 +3,18 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzkkong&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight"  width="41%"/> ![GitHub Streak](https://streak-stats.demolab.com/?user=hzkkong&theme=dracula&border_radius=)
 
-<img src="https://github-readme-stats.vercel.app/api?username=hzkkong&theme=dracula&show_icons=true" width="56%" />![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hzkkong&theme=dracula&utcOffset=8 )
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hzkkong&theme=dracula)
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{hzkkong}"/>
 </a>
 </div>
+
+
   
 ## <p align="center">🔨 Tech Stacks 🔨</p>
 

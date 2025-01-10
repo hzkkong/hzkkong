@@ -1,9 +1,6 @@
 ### <p align="center"> 👾 클라이언트와 세상을 연결하는 디지털 마술사, 개발로 일상의 재미를 더합니다! 🚀</p>
 </br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzkkong&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight"  width="41%"/> ![GitHub Streak](https://streak-stats.demolab.com/?user=hzkkong&theme=dracula&border_radius=)
-
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hzkkong&theme=dracula)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
@@ -13,7 +10,6 @@
   <img src="https://render.gitanimals.org/farms/{hzkkong}"/>
 </a>
 </div>
-
 
   
 ## <p align="center">🔨 Tech Stacks 🔨</p>

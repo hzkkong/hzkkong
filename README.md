@@ -6,8 +6,12 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{hzkkong}"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hzkkong&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/hzkkong"
+  width="600"
+  height="300"
+/>
 </a>
 </div>
 
